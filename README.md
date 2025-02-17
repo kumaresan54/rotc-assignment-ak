@@ -1,10 +1,10 @@
-# The Rise of the Containers (semi-guided) material
+# The Rise of the Containers assignment 
 
 
 ROTC is a 2-day hands-on, semi-guided workshop, with an additional four-hour ROTC assignment, where participants will explore Kubernetes and go deeper into its various components. This repository contains learning material for the workshop.
 
 
-[Final Assignment](https://github.com/twlabs/ROTC-semi-guided-material/tree/main/final_assignment)
+[Final Assignment](./final_assignment/README.md)
 
 ## Additional Resources
 
